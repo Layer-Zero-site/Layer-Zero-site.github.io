@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /layer-zero/
+Sitemap: https://layer-zero.github.io/sitemap.xml
